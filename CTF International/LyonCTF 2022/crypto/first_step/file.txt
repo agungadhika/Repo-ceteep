@@ -1,0 +1,4 @@
+plain : B1PUr2AqhyL0L3A0O3UeIxThfWGqW3X5pJJbqO==
+key : lyonctf
+vigenere terus base64
+flag = CTF{f1rst_st3ps_1nt0_crypt0}
