@@ -1,0 +1,220 @@
+{
+    "data": {
+        "Binary Exploit": [
+            {
+                "category": "Binary Exploit", 
+                "description": "He likes you..... he will repeat what you said\r\n\r\n180.250.135.6:9090", 
+                "files": [], 
+                "hints": [
+                    " "
+                ], 
+                "id": 3, 
+                "name": "Repeat After Me", 
+                "points": 200, 
+                "solves": 17
+            }
+        ], 
+        "Cryptography": [
+            {
+                "category": "Cryptography", 
+                "description": "Pada tahun 47 SM, Julius Caesar kembali ke Roma. Sesampainya di Roma Julius Caesar diberikan pesan berikut oleh Brutus, kemudian Brutus membalikkan badannya membelakangi Julius Caesar. Bantu Julius Caesar menemukan pesan apa yang dituliskan Brutus.\r\n\r\n4t3Lx::[<r_'oC{\\vzfUH+L&e_0Oe3\r\n\r\nFormat flag: gemastik13{flag}", 
+                "files": [], 
+                "hints": [
+                    " "
+                ], 
+                "id": 18, 
+                "name": "Message from Brutus", 
+                "points": 200, 
+                "solves": 0
+            }, 
+            {
+                "category": "Cryptography", 
+                "description": "Sadistic Encryption? But wait, enc in enc? What do you mean? Decrypt it?", 
+                "files": [
+                    "/files/f28737e676ba6c2c5073967bec5bf63d/key_rsa.txt?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjksImZpbGVfaWQiOjEyfQ.X2XqKA.epa9enDu3cCOWw955iLGSEP0J9I"
+                ], 
+                "hints": [
+                    " "
+                ], 
+                "id": 4, 
+                "name": "This isn't Faulty, but Sadistic", 
+                "points": 250, 
+                "solves": 0
+            }
+        ], 
+        "Forensic": [
+            {
+                "category": "Forensic", 
+                "description": "Seorang Kepala Kepolisian Bojong Soang cabang Zimbabwe sedang merayakan ulang tahun anaknya.\r\nTetapi secara misterius sang anak mendapatkan gambar yang dikirimkan oleh orang tidak dikenal. Bantu Kepala Kepolisian memecahkan kasus ini.", 
+                "files": [
+                    "/files/09ccb4ac9598a155946b6040e0227bce/Congratulations.png?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjksImZpbGVfaWQiOjE2fQ.X2XqKQ.F_3tAVMQkxk3Z598lUePebZ6hYw"
+                ], 
+                "hints": [
+                    " "
+                ], 
+                "id": 7, 
+                "name": "Congratulations", 
+                "points": 250, 
+                "solves": 0
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "Bos Pablo Escobar meninggalkan sebuah file rahasia sebelum dia ditembak mati oleh polisi setempat. tim forensik yang menemukan file tersebut meyakini bahwa file tersebut adalah lokasi penempatan uang-uang bos Pablo Escobar selama menjadi Bos Kartel Kokaine di Columbia. Bantu para tim forensik untuk memecahkan isi file tersebut.", 
+                "files": [], 
+                "hints": [
+                    " "
+                ], 
+                "id": 9, 
+                "name": "Safe and Sound", 
+                "points": 300, 
+                "solves": 0
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "On a gloomy day, I accidentally throwed away my precious memento...", 
+                "files": [
+                    "/files/59e9501bd3d5ffeaaf57c936e9a562ca/image.tar.xz?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjksImZpbGVfaWQiOjE1fQ.X2XqLQ.2jBNzIr7-rF3Px7L6SNgA7csM38"
+                ], 
+                "hints": [
+                    " "
+                ], 
+                "id": 5, 
+                "name": "Dumpster", 
+                "points": 300, 
+                "solves": 0
+            }
+        ], 
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering", 
+                "description": "Telah hadir, sebuah aplikasi untuk menggunakan Service Gemastik!! Cukup dengan melakukan cracking password, Anda dapat menikmati layanan Service Gemastik tanpa iklan!!\r\n\r\nFormat flag: GEMASTIK13{}", 
+                "files": [
+                    "/files/c4c84ca92b5e680877a338ca7007a531/Gemastik_Pro.apk?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjksImZpbGVfaWQiOjE4fQ.X2XqJg.egSy_BrUvOTqOB61gW9Ep4T7fBg"
+                ], 
+                "hints": [
+                    " "
+                ], 
+                "id": 10, 
+                "name": "Gemastik Premium", 
+                "points": 300, 
+                "solves": 0
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "Di bawah sebuah piramida di Mesir, Oingo dan Boingo menemukan sebuah program beserta keluarannya. Ketika dijalankan program tersebut menghasilkan keluaran terenkripsi. Oingo dan Boingo tidak mengetahui apa algoritma yang digunakan program tersebut, sampai tiba-tiba kutukan pharaoh menyerang. Oingo dan Boingo harus memasukkan plaintext yang sesuai dengan keluaran yang dihasilkan oleh program tersebut. Yang diketahui Oingo dan Boingo hanyalah keluaran program yaitu zOHmai4ZLj2j50vYcWZhGdftB9ICmGlNOiKtjKID+Cc=\r\nBantu Oingo dan Boingo menyelamatkan diri dengan mencari plaintext dari keluaran tersebut.", 
+                "files": [
+                    "/files/1529db2622b7b7c4594ddba99ec298ec/soal?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjksImZpbGVfaWQiOjIxfQ.X2XqJQ.E_SpTPtWQJoadURKAsT99gGPDnw"
+                ], 
+                "hints": [
+                    " "
+                ], 
+                "id": 14, 
+                "name": "Mr Simple", 
+                "points": 200, 
+                "solves": 5
+            }
+        ], 
+        "Reverse Engineering \t": [
+            {
+                "category": "Reverse Engineering \t", 
+                "description": "Kali ini bukan Dr. Watson tetapi pemeran Mr.Robot alias Eliot yang ingin merubah dunia.\r\nSebelum merubah dunia Eliot mendapatkan misi untuk reverse program linux w0rlD.\r\nDapatkah kalian merasakan sensasi reverse program tersebut, Lanjut kan dan Ubahlah Dunia \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n", 
+                "files": [
+                    "/files/1d6010e028053dedbbb97a5ba963fd6f/w0rlD?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjksImZpbGVfaWQiOjIyfQ.X2XqJQ.yRPQmszVdaTerY9mVhTPmNHNRaY"
+                ], 
+                "hints": [
+                    " "
+                ], 
+                "id": 19, 
+                "name": "REVERSE WORLD", 
+                "points": 200, 
+                "solves": 3
+            }
+        ], 
+        "Steganography": [
+            {
+                "category": "Steganography", 
+                "description": "anya mendapatkan sebuah gambar, namun anya tidak tahu maksud dari gambar ini. dapatkah anda membantu anya ? ", 
+                "files": [
+                    "/files/7048985f4b442d290aab1ec6baac0c03/anya-missing-something.jpg?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjksImZpbGVfaWQiOjExfQ.X2XqJQ.R5z-v7V6GdY5gBkyezfMR129opA"
+                ], 
+                "hints": [
+                    " "
+                ], 
+                "id": 1, 
+                "name": "Missing Something  ", 
+                "points": 100, 
+                "solves": 2
+            }, 
+            {
+                "category": "Steganography", 
+                "description": "", 
+                "files": [
+                    "/files/2a9c11225d544c21dc35053dba040d06/sanityslippage.wav?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjksImZpbGVfaWQiOjIwfQ.X2XqJw.snhsQhLTP2hSFRQhh85glBn57y0"
+                ], 
+                "hints": [
+                    " "
+                ], 
+                "id": 12, 
+                "name": "AH\u2193HA\u2191HA\u2191HA\u2191HA\u2191", 
+                "points": 200, 
+                "solves": 0
+            }, 
+            {
+                "category": "Steganography", 
+                "description": "This is the image of Giuliano Alesi, driver of HWA Racelab, during the Formula 2 preseason testing at Abu Dhabi.", 
+                "files": [
+                    "/files/9c132116374177f3ed3760acd36235ab/5_hwa_racelab_f2_tests_abudhabi_alesi_giuliano.jpg?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjksImZpbGVfaWQiOjE0fQ.X2XqJw.8iDdRx1pL63kbk8aJrAyZcq43kM"
+                ], 
+                "hints": [
+                    " "
+                ], 
+                "id": 6, 
+                "name": "Giuliano Alesi", 
+                "points": 100, 
+                "solves": 0
+            }
+        ], 
+        "mix": [
+            {
+                "category": "mix", 
+                "description": "untuk mendapatkan flag silahkan join ke discord ini https://discord.gg/6XapB7j", 
+                "files": [], 
+                "hints": [
+                    " "
+                ], 
+                "id": 20, 
+                "name": "Around the World", 
+                "points": 100, 
+                "solves": 0
+            }
+        ], 
+        "web-app": [
+            {
+                "category": "web-app", 
+                "description": "Pelajari program disini http://180.250.135.80:8000/ dan dapatkan kuncinya", 
+                "files": [], 
+                "hints": [
+                    " "
+                ], 
+                "id": 16, 
+                "name": "Please Hack Me", 
+                "points": 150, 
+                "solves": 2
+            }, 
+            {
+                "category": "web-app", 
+                "description": "hayu main sini https://180.250.135.70", 
+                "files": [], 
+                "hints": [
+                    " "
+                ], 
+                "id": 17, 
+                "name": "My Information is Leaking", 
+                "points": 75, 
+                "solves": 4
+            }
+        ]
+    }, 
+    "title": "Gemastik Cyber Security Competition by Telkom University", 
+    "url": "https://ctf-gemastik13.telkomuniversity.ac.id"
+}

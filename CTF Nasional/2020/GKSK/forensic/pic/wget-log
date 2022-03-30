@@ -1,0 +1,50 @@
+--2020-03-01 20:32:02--  http://askubuntu.com/
+Resolving askubuntu.com (askubuntu.com)... 151.101.193.69, 151.101.129.69, 151.101.65.69, ...
+Connecting to askubuntu.com (askubuntu.com)|151.101.193.69|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Content-Type: text/html; charset=utf-8
+  Location: https://askubuntu.com/
+  X-Request-Guid: de570c61-2f74-46dc-af34-d59bb6d641f7
+  Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+  Content-Length: 139
+  Accept-Ranges: bytes
+  Date: Sun, 01 Mar 2020 12:32:02 GMT
+  Via: 1.1 varnish
+  X-Served-By: cache-sin18047-SIN
+  X-Cache: MISS
+  X-Cache-Hits: 0
+  X-Timer: S1583065922.326175,VS0,VE530
+  Vary: Fastly-SSL
+  X-Dns-Prefetch-Control: off
+  Set-Cookie: prov=ba2efee8-cecd-6bc7-f257-d398ee948360; domain=.askubuntu.com; expires=Fri, 01-Jan-2055 00:00:00 GMT; path=/; HttpOnly
+  X-Cnection: close
+Location: https://askubuntu.com/ [following]
+--2020-03-02 01:58:25--  https://askubuntu.com/
+Connecting to askubuntu.com (askubuntu.com)|151.101.193.69|:443... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Connection: keep-alive
+  Content-Length: 122063
+  Cache-Control: private
+  Content-Type: text/html; charset=utf-8
+  X-Frame-Options: SAMEORIGIN
+  X-Request-Guid: e70db397-e3d2-4055-816e-56ada743932d
+  Strict-Transport-Security: max-age=15552000
+  Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+  Accept-Ranges: bytes
+  Date: Sun, 01 Mar 2020 17:58:27 GMT
+  Via: 1.1 varnish
+  X-Served-By: cache-sin18044-SIN
+  X-Cache: MISS
+  X-Cache-Hits: 0
+  X-Timer: S1583085507.876200,VS0,VE290
+  Vary: Fastly-SSL
+  X-DNS-Prefetch-Control: off
+Length: 122063 (119K) [text/html]
+Saving to: ‘STDOUT’
+
+     0K                                                         0% 0,00 =0s
+
+
+Cannot write to ‘-’ (Success).

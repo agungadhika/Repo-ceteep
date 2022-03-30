@@ -1,0 +1,5 @@
+pattern1	: GKSK
+pattern2	: QWER
+pattern3	: \xff\xff\xff\xff
+pattern4	: \xaa\xaa\xaa\xaa
+pattern5	: SADF

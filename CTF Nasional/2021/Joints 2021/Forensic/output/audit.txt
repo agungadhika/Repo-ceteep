@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Apr 11 19:13:07 2021
+Invocation: foremost disk3.img 
+Output directory: /mnt/d/CTF/Soal CTF 2021/Joints 2021/Forensic/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: disk3.img
+Start: Sun Apr 11 19:13:08 2021
+Length: 4 MB (4194304 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00006061.png 	       2 KB 	    3103568 	  (200 x 200)
+Finish: Sun Apr 11 19:13:08 2021
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Apr 11 19:13:08 2021

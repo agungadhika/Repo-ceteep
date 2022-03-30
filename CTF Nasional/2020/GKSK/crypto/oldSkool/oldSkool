@@ -1,0 +1,52 @@
+#!/usr/bin/env python3
+
+def menu():
+    print(
+        """Old Skool is the best!! ;)
+Don't believe me? OK, try this
+
+1. Caesar
+2. Substitution
+3. Vigenere
+
+Solve all of them, but I belive you can't solve it ;)"""
+    )
+
+Cae = False
+Sub = False
+Vig = False
+
+while True:
+    menu()
+    inp = input("Input: ")
+    print()
+    if inp == "1":
+        print("LJNBJA LRYQNA RI MJ KNIIC HXXX")
+        print("\nHehehe, can you guess the plaintext??")
+        ans = input("Plaintext: ")
+        if ans == "CAESAR CIPHER IZ DA BEZZT YOOO":
+            print("Yep\n\n")
+            Cae = True
+        else:
+            print("That's not correct...")
+    elif inp == "2":
+        print("TANB TANB LWZ-LWZ-LWZLMOMWMOGF")
+        print("\nHehehe, can you guess the plaintext??")
+        ans = input("Plaintext: ")
+        if ans == "EAZY EAZY SUB-SUB-SUBSTITUTION":
+            print("Yep\n\n")
+            Sub = True
+        else:
+            print("That's not correct...")
+    elif inp == "3":
+        print("BSYOTOJO OC WKYIQ KYP TBAR")
+        print("\nHehehe, can you guess the plaintext??")
+        ans = input("Plaintext: ")
+        if ans == "VIGENERE IS EASYY ASF BRUH":
+            print("Yep\n\n")
+            Vig = True
+        else:
+            print("That's not correct...")
+    if Cae == Sub == Vig == True:
+        print("flag goes here...")
+        exit()

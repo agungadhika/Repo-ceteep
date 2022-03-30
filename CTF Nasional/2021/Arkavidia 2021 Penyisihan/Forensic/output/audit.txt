@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Jan 31 13:39:24 2021
+Invocation: foremost Babymetal.jpg 
+Output directory: /mnt/d/CTF/Soal CTF 2021/Arkavidia 2021 Penyisihan/Forensic/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Babymetal.jpg
+Start: Sun Jan 31 13:39:25 2021
+Length: 3 MB (4009126 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     109 KB 	          0 	 
+1:	00000219.zip 	       3 MB 	     112302 	 
+Finish: Sun Jan 31 13:39:25 2021
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Jan 31 13:39:25 2021

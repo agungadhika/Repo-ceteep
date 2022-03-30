@@ -1,0 +1,138 @@
+{
+    "data": {
+        "Binary Exploit": [
+            {
+                "category": "Binary Exploit",
+                "description": "no gets, no party\r\n\r\nnc 34.69.142.187 3001",
+                "files": [
+                    "/files/5f6531490d76cf0fd6c73e40f8d3aaf1/libc.so.6?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzN9.X0trAA.AYyecXZ2Ng8CDtMzau26E-gCDgE",
+                    "/files/6bfcf5451abe53b4e6b61bb329f03c9e/main.file?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzR9.X0trAA.riTiypvGOffY8MsMfzv540N_uw4"
+                ],
+                "hints": [
+                    "did you know how to use arithmetic gadgets?"
+                ],
+                "id": 23,
+                "name": "gets",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Binary Exploit",
+                "description": "$ nc 34.69.142.187 3003",
+                "files": [
+                    "/files/c5bbf638870e1579106f582865638798/main?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mjh9.X0trAA.WgpasIWTwoXtuN2qksLxrxq1FqU",
+                    "/files/cb8a5beb440b68806bd445e32fffdf3e/libc-2.31.so?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mjl9.X0trAA.j4jihTVOVzGEKmrgD2JcW3uhSEU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "baby free 2",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Binary Exploit",
+                "description": "$ nc 34.69.142.187 3004",
+                "files": [
+                    "/files/1bf5dab058d5e90966c9f7ed4cee5e71/main?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzB9.X0trAA.3MNDBV_mqbl8P9QDGAQL0961Dec",
+                    "/files/5a27ca36c7c5b6b700cf6d66bc374040/libc-2.31.so?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzF9.X0trAA.v8ztAYSaw7UwRFkC88k0m2q4Quw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "baby free 3",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Binary Exploit",
+                "description": "$ nc 34.69.142.187 3002",
+                "files": [
+                    "/files/0d0cc3bfbdb8a87bcdfe6a89044ef06d/main?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjZ9.X0trAA.9kqaWT3J5uEc_igUM_ch5JmkOuk",
+                    "/files/cd130a1c7a29d976f2d4280457b51b71/libc-2.31.so?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mjd9.X0trAA.TAIFjOeuVrgy1Hv_5lm3cdU5UEI"
+                ],
+                "hints": [
+                    "array size out of bound when insert note more than 6 which can overwrite ptr[0]"
+                ],
+                "id": 24,
+                "name": "baby free",
+                "points": 500,
+                "solves": 1
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "Selamat datang di Final UNITY 8 CTF\r\n\r\nUNITY2020{welc0me_to_f1n4l}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Final",
+                "points": 96,
+                "solves": 10
+            }
+        ],
+        "Web Hacking": [
+            {
+                "category": "Web Hacking",
+                "description": "We provide website to convert jpg format to gif using imagemagick\r\n\r\nhttp://34.69.142.187:2000/app/",
+                "files": [
+                    "/files/52728b8dee115ca7c6ccfa74dc99b66c/image-converver-src.zip?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjR9.X0trAA.TzXXQ122Jk2-kDbafGweoSN1eW4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "Better Image Converter",
+                "points": 436,
+                "solves": 5
+            },
+            {
+                "category": "Web Hacking",
+                "description": "Weeb sedang maintainance setelah di deface. Dan teruntuk kamu yang telah mendeface web ini, aku benci kamu!\r\n\r\n<b>Karena kurangnya biaya web ini beroperasi pada server dengan spek paling minim, karena memiliki disk space yang sangat kecil agar tidak overload kami selalu membersihkan akses log website setiap kurang dari 1 detik</b>\r\n\r\nhttp://34.69.142.187:2001/\r\n\r\n<center><img src='http://34.69.142.187:2001/assets/imam_sad.png' style=\"width: 70%; height: 70%\"></center>\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "Watashi no Simple Weebs",
+                "points": 176,
+                "solves": 9
+            },
+            {
+                "category": "Web Hacking",
+                "description": "Secret is hidden in mistery box\r\n\r\nhttp://34.69.142.187:2002/\r\n",
+                "files": [
+                    "/files/c507e496039e29d5a7df6a8c987237e3/mistery-box.zip?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjJ9.X0trAA.8xeEQKiVBPIsZ4S8wFpWi8_mKn4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Mistery Box",
+                "points": 176,
+                "solves": 9
+            },
+            {
+                "category": "Web Hacking",
+                "description": "Kimi wa h\u012br\u014d ni nareru\r\n\r\n\r\nhttp://34.69.142.187:2003/",
+                "files": [
+                    "/files/900d262147af365eab96cf4cd1dca1ac/app.rar?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzJ9.X0trAA.j8p6VEKSrG0cF-cDIHBiVpjn9aY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "Weebs Diary",
+                "points": 400,
+                "solves": 4
+            }
+        ]
+    },
+    "title": "UNITY CTF 2020 Final Round",
+    "url": "http://ctf.unity.restek-uny.id"
+}

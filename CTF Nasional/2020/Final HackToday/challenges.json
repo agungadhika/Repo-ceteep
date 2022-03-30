@@ -1,0 +1,174 @@
+{
+    "url": "https://hacktoday.codepwnda.id/", 
+    "message": "ok", 
+    "data": [
+        {
+            "category": "cry,web", 
+            "description": "Dont forget to check attachment first.\n\nhttp://52.139.201.162:16000/", 
+            "author": "vidner, deomkicer", 
+            "attachment": "https://drive.google.com/drive/folders/186-FEod4mmxLeQf8xczLrqgjzTx_OD8z?usp=sharing", 
+            "id": 14, 
+            "name": "TokenToday"
+        }, 
+        {
+            "category": "web", 
+            "description": "Three in one ctf challenge\n\nhttp://52.139.201.162:15133", 
+            "author": "muhammad hacker", 
+            "attachment": "", 
+            "id": 2, 
+            "name": "Classic"
+        }, 
+        {
+            "category": "rev", 
+            "description": "unrelated: https://www.youtube.com/watch?v=41qC3w3UUkU\n--\nFormat flag: ^hacktoday{[ -~]+}$", 
+            "author": "vidner", 
+            "attachment": "https://drive.google.com/file/d/1f9-EffF1Ld01OlmcTJJdE25WY2dAoUxp/view?usp=sharing", 
+            "id": 17, 
+            "name": "Tupac Shakur"
+        }, 
+        {
+            "category": "rev", 
+            "description": "unrelated: https://www.youtube.com/watch?v=09E_bzjx8yA", 
+            "author": "vidner", 
+            "attachment": "https://drive.google.com/file/d/1r1jzEfabymW8xn42gtGcCqd8JMSPhgrg/view?usp=sharing", 
+            "id": 16, 
+            "name": "J.cole"
+        }, 
+        {
+            "category": "cry", 
+            "description": "Dependent primes are weak, right?", 
+            "author": "deomkicer", 
+            "attachment": "https://drive.google.com/drive/folders/1pIiT8Ei29MKUtV2C8tKIc2IEjChsW2qs?usp=sharing", 
+            "id": 3, 
+            "name": "PrimeToday"
+        }, 
+        {
+            "category": "web", 
+            "description": "http://chall.codepwnda.id:15000/\n--\nunrelated: https://www.youtube.com/watch?v=Kb24RrHIbFk", 
+            "author": "vidner", 
+            "attachment": "", 
+            "id": 19, 
+            "name": "Logic"
+        }, 
+        {
+            "category": "for", 
+            "description": "Shiro adalah seorang murid perempuan yang menjadi primadona di sekolahnya, banyak yang menyukai dirinya bahkan banyak yang ini menjadikan dirinya sebagai kekasih. Tetapi, tidak ada satupun yang ia terima. Dikarenakan ia hanya menyukai seorang pria bernama Otho di kelasnya. Ia menyukainya karena Otho adalah sosok yang misterius dan sangat keren dipandangannya.\n\nPada suatu saat Shiro memberanikan diri untuk menyatakan perasaanya kepada Otho melalu suatu aplikasi online. Setelah menunggu berjam-jam jawaban dari Otho. Otho hanya memberikan sebuah file yang Shiro tidak mengerti. \n\nDapatkah kamu membantu Shiro menemukan jawaban?", 
+            "author": "blacowhait", 
+            "attachment": "https://drive.google.com/file/d/1ZAnuAanPFhct3_JCNIl7nmdCm5_zdeJQ/view?usp=sharing", 
+            "id": 20, 
+            "name": "Kisah-Kasih"
+        }, 
+        {
+            "category": "cry", 
+            "description": "Eve sang hekel\n\nnc chall.codepwnda.id 16001", 
+            "author": "vibonacci", 
+            "attachment": "https://drive.google.com/file/d/1MAgEE6ddXYauhQIlSWjkS4aGNkwxfndE/view?usp=sharing", 
+            "id": 8, 
+            "name": "EveToday"
+        }, 
+        {
+            "category": "for", 
+            "description": "Farewell, My Old Friend..\n\nFarewell, Baek dong-soo, Gunner and Ragna..\n\nBonus BGM: https://www.youtube.com/watch?v=loGBdncnR1M", 
+            "author": "alverya", 
+            "attachment": "https://mega.nz/file/aYtVQaRS#zAxL_MUGUzytyP1_k-UDRBx2jURt1rM23tgbRgnq0us", 
+            "id": 10, 
+            "name": "Lost Saga is the Best"
+        }, 
+        {
+            "category": "rev", 
+            "description": "http://chall.codepwnda.id:14000/\n--\nunrelated: https://www.youtube.com/watch?v=TMZi25Pq3T8", 
+            "author": "vidner", 
+            "attachment": "", 
+            "id": 15, 
+            "name": "N.W.A"
+        }, 
+        {
+            "category": "web", 
+            "description": "HTTP is cool, but have you heard about HTTP 2? (dont forget to check attachment first)\n\nhttp://52.139.201.162:15132", 
+            "author": "muhammad hacker", 
+            "attachment": "https://drive.google.com/file/d/1-B2xdSsxlCVlmK33dPWQoVp4w8Vc0KUb/view?usp=sharing", 
+            "id": 1, 
+            "name": "HTTP 2"
+        }, 
+        {
+            "category": "pwn", 
+            "description": "nc chall.codepwnda.id 17009", 
+            "author": "circleous", 
+            "attachment": "https://drive.google.com/file/d/1CttDNXyF4SyyIkTm9eyc5VZy-Y8YUTYF/view?usp=sharing", 
+            "id": 21, 
+            "name": "rushb"
+        }, 
+        {
+            "category": "pwn", 
+            "description": "This is my story\nEnjoy :)\n\nnc chall.codepwnda.id 17002", 
+            "author": "L29", 
+            "attachment": "https://drive.google.com/file/d/14Uvc5bfw9-eF26f-rwsON_10iGyMrMUx/view?usp=sharing", 
+            "id": 13, 
+            "name": "mystory"
+        }, 
+        {
+            "category": "pwn", 
+            "description": "i try wrote an assembly program\ni hope this secure\n\nnc chall.codepwnda.id 17001", 
+            "author": "L29", 
+            "attachment": "https://drive.google.com/file/d/1oXwP4ypEPDD-1fqZTKyD4n4_exbLO_Oi/view?usp=sharing", 
+            "id": 9, 
+            "name": "confusing-stack"
+        }, 
+        {
+            "category": "cry", 
+            "description": "Redeem your code today! Dont forget to check attachment first.\n\nnc chall.codepwnda.id 16021", 
+            "author": "deomkicer", 
+            "attachment": "https://drive.google.com/drive/folders/1fmi7uR7EAlKB_lwOTVdTPAIwx3KU2Nym?usp=sharing", 
+            "id": 7, 
+            "name": "RedeemToday"
+        }, 
+        {
+            "category": "pwn", 
+            "description": "nc chall.codepwnda.id 17000\nnote:\nflagnya bukan di /flag", 
+            "author": "camelliose", 
+            "attachment": "https://drive.google.com/file/d/15QRxsu0pWg2q77F8kX_hJqNPg_g2SKI5/view?usp=sharing", 
+            "id": 4, 
+            "name": "sum 2: exam"
+        }, 
+        {
+            "category": "cry", 
+            "description": "tambahan :\n- flag belum berada dalam hacktoday{} , sehingga peserta perlu menambahkan formatnya ketika flag sudah didapatkan. Namun hal ini juga \"TIDAK berpengaruh\" pada solusi yg dibutuhkan.\n- flag berupa sebuah kalimat yang jelas, dan dipisahkan oleh \"_\" antar katanya.\n- no \"guessing\" dibutuhkan.", 
+            "author": "vibonacci", 
+            "attachment": "https://drive.google.com/file/d/1qoFVlEMUgfCaZ8iwAQutQct1x0-6-gqv/view?usp=sharing", 
+            "id": 6, 
+            "name": "JournalToday"
+        }, 
+        {
+            "category": "rev", 
+            "description": "unrelated: https://www.youtube.com/watch?v=v1mKGlYL9jg\n--\nFormat flag: ^hacktoday{[ -~]+}$", 
+            "author": "vidner", 
+            "attachment": "https://drive.google.com/file/d/1DTsIlRwtSj1SSEuJxS6B-kVZBHkiYR0i/view?usp=sharing", 
+            "id": 18, 
+            "name": "Notorious B.I.G"
+        }, 
+        {
+            "category": "for", 
+            "description": "Menurutmu, apakah arti \"hidup\" itu?", 
+            "author": "alverya", 
+            "attachment": "https://mega.nz/file/7ZkzzLzD#IqqaPDrwIrAMLStToAwE45HR46eADhHj7q0yyLDjKTs", 
+            "id": 11, 
+            "name": "Saigo no Message"
+        }, 
+        {
+            "category": "mis", 
+            "description": "Hash as a Service (HaaS). Choose your hash wisely. Dont forget to check attachment first.\n\nnc chall.codepwnda.id 14601", 
+            "author": "deomkicer", 
+            "attachment": "https://drive.google.com/drive/folders/1bm9aoya-ROYzrnHXPhccl_zOgZWeGuux?usp=sharing", 
+            "id": 5, 
+            "name": "HaaS"
+        }, 
+        {
+            "category": "for", 
+            "description": "Semoga semangat dan tetap mantap-mantap!\np.s. : selepas pakai jangan lupa dibersihkan\n\nhttps://www.youtube.com/watch?v=gXF7LWn3SMg", 
+            "author": "alverya", 
+            "attachment": "https://mega.nz/file/mcljXJrK#O9e3ZsS4Jvao5DiIzcR4pARP4H74MINt_h8eE9csqwc", 
+            "id": 12, 
+            "name": "Semangat 45"
+        }
+    ]
+}
